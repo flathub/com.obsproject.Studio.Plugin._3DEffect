@@ -5,7 +5,7 @@ sdk: org.kde.Sdk//6.6
 build-extension: true
 separate-locales: false
 build-options:
-  prefix: /app/plugins/3DEffect
+  prefix: /app/plugins/_3DEffect
 modules:
   - name: 3d-effect
     buildsystem: cmake-ninja
