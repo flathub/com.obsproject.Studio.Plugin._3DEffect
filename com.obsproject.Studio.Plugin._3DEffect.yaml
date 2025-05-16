@@ -17,8 +17,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exeldro/obs-3d-effect.git
-        tag: 0.1.3
-        commit: 222651eb842ea103e008e22b24c18719d91fe528
+        tag: 0.1.4
+        commit: e0afa47fcebbfd4099fd8515145c483f550c85d1
         x-checker-data:
           type: git
           is-main-source: true
